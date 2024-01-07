@@ -1,0 +1,18 @@
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Project exclude paths
+/.github/
+/.google/
+/app/
+/app-compose/
+/gradle/
+/screenshots/
+/shared/
